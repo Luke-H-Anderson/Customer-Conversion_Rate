@@ -39,6 +39,8 @@ Now the conversion funnel, my favorite part. It is simple, but important. Notice
 Let's explore this table together. Notice in the rows where it says "view"? The number next to it, 10453, indicates 
 the number of customers who viewed the webpage of the store.
 
+![Conversion Rate Pivot Table](https://github.com/Luke-H-Anderson/Customer-Conversion_Rate/blob/main/Conversion%20Funnel.png)
+
 Then right after that it says, "Shopping Cart" followed by the number 3036. That's the number of customers who added an 
 item to their shopping cart. You'll also see that in the next two columns, both say "29%". That's because the previous step 
 and the initial step, are the same.
