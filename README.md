@@ -10,6 +10,8 @@ This is a pivot chart that measures the number of specific customers based on th
 as specified by the column, and how long customers stay in that cohort, measured in months, as long as they 
 continue to make a purchase with the company.
 
+![Cohort Analysis Pivot Table](https://github.com/Luke-H-Anderson/Customer-Conversion_Rate/blob/main/Cohort%20Analysis.png)
+
 For example: Notice in the very first cohort, which starts in September of 2020, there are 32 customers, 
 which means 32 people made a purchase with the company. But, by the next month, that number drops to 4, and then 2 
 and then 0, and then 1. This means the Semptember cohort went from 32 customers in month zero, to 4 repeat 
