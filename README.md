@@ -24,6 +24,8 @@ Another pivot table that directly builds off the previous one. However, instead 
 percentage of the customers who stayed from the starting cohort size. Notice at the top in the column headers it shows 1, 
 2, 3, and 4, but doesn't begin with 0. This is because month 0 would be 100% for all cohorts.
 
+![Retention Rate Pivot Table](https://github.com/Luke-H-Anderson/Customer-Conversion_Rate/blob/main/Retention%20Rates.png)
+
 So, using the September cohort as an example, notice how in month one it displays 13%, followed by 6%, 0%, and finally 
 3%. This is the number of repeart customers of that cohort, over the intital cohort size.
 
